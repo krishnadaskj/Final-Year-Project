@@ -42,8 +42,8 @@ The system analyzes historical player performance data and applies machine learn
 ### 🔹 Machine Learning
 - Pandas
 - NumPy
-- Scikit-learn
 - XGBoost
+- Random Forest
 
 ### 🔹 Database
 - SQLite
